@@ -1,0 +1,73 @@
+/*
+  Edit this CSS file to change styles of the preview.
+  If you need to revert it back, use the "Reset" button.
+*/
+
+/**
+* Text Cell
+*/
+
+.text-cell {
+  font-size: 14px;
+}
+
+/**
+* Code Cell
+*/
+
+.code-cell {
+  font-size: 12px;
+}
+
+/**
+* Markdown Cell
+*/
+
+.markdown-cell {
+  font-size: 14px;
+}
+
+/**
+* LaTeX Cell
+*/
+
+.latex-cell {
+  font-size: 14px;
+}
+
+h1 {
+  border-bottom: solid 3px #ECECEC;
+  border-radius: 3px;
+  font-size: 24px;
+  line-height: 1.4em;
+}
+ 
+h2 {
+  border-bottom: solid 1px #ECECEC;
+  border-radius: 2px;
+  font-size: 20px;
+  line-height: 1.4em;
+}
+
+h3 {
+  border-bottom: solid 1px #ECECEC;
+  border-radius: 1px;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+
+h4 {
+  border-bottom-style: dotted;
+  border-bottom-color: #ECECEC;
+  border-bottom-width:thin;
+  border-radiu: 3px;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+
+table thead th {
+  background: #399894;
+  font-weight: bold;
+  vertical-align: top;
+  color: #fff;
+}
